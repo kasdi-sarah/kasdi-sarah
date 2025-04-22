@@ -35,23 +35,11 @@
 <!-- VirtualBox -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40"/>
 
-<!-- VMware -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/VMware_workstation_icon_2019.svg" width="40"/>
 
 <!-- Apache Spark -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/>
 
-<!-- Apache Kafka -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka.svg" width="40"/>
 
-<!-- Confluent Kafka -->
-<img src="https://cdn.worldvectorlogo.com/logos/confluent-1.svg" width="100"/>
-
-<!-- Apache Spark (rendu plus fiable) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width="60"/>
-
-<!-- Apache Kafka (PNG fiable) -->
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
 
 <!-- Confluent (version stable PNG) -->
 <img src="https://www.vectorlogo.zone/logos/confluentio/confluentio-icon.svg" width="40"/>
