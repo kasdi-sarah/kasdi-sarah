@@ -44,8 +44,6 @@
 <!-- Confluent (version stable PNG) -->
 <img src="https://www.vectorlogo.zone/logos/confluentio/confluentio-icon.svg" width="40"/>
 
-<!-- VMware (version PNG) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/VMware_logo.svg/2560px-VMware_logo.svg.png" width="60"/>
 
   <!-- Frameworks & ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
