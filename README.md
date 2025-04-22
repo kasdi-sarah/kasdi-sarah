@@ -47,10 +47,22 @@
 <!-- Confluent Kafka -->
 <img src="https://cdn.worldvectorlogo.com/logos/confluent-1.svg" width="100"/>
 
+<!-- Apache Spark (rendu plus fiable) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width="60"/>
+
+<!-- Apache Kafka (PNG fiable) -->
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
+
+<!-- Confluent (version stable PNG) -->
+<img src="https://www.vectorlogo.zone/logos/confluentio/confluentio-icon.svg" width="40"/>
+
+<!-- VMware (version PNG) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/VMware_logo.svg/2560px-VMware_logo.svg.png" width="60"/>
 
   <!-- Frameworks & ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
 </p>
+
 
 
