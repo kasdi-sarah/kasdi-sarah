@@ -1,6 +1,6 @@
   ## Hi, I'm Sarah KASDI 
 
-🎓 Computer Science student specialized in Networks and Autonomous Systems at [Université Paris Cité, UFR of Mathematics and Computer Science](https://math-info.u-paris.fr/).<br>
+🎓 I'm a Computer Science student specialized in Networks and Autonomous Systems at [Université Paris Cité, UFR of Mathematics and Computer Science](https://math-info.u-paris.fr/).<br>
 🔬 Passionate about research, currently completing a research internship at **Télécom SudParis**, in the **RST department** (Networks and Telecommunication Services). <br>
 💡 I escape when I code — <br>
 
