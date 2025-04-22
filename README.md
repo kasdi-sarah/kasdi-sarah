@@ -29,7 +29,24 @@
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><!-- Anaconda -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
+
+<!-- VirtualBox -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40"/>
+
+<!-- VMware -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/VMware_workstation_icon_2019.svg" width="40"/>
+
+<!-- Apache Spark -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/>
+
+<!-- Apache Kafka -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka.svg" width="40"/>
+
+<!-- Confluent Kafka -->
+<img src="https://cdn.worldvectorlogo.com/logos/confluent-1.svg" width="100"/>
+
 
   <!-- Frameworks & ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
